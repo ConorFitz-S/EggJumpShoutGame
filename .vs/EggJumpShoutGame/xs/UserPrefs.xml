@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{2816B8BB-E503-BC57-12E7-93D9CCBEF85E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MouseLook.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MouseLook.cs" Line="12" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0a27d93c-a118-435b-abd4-c6cf4e5d413c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
